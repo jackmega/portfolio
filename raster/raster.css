@@ -1,0 +1,17 @@
+.titles {
+	padding-left: 15px;
+}
+.tables {
+	padding-left: 35px;
+}
+.skylineWebBannerTable {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin: auto;
+	padding-left: 35px;
+}
+.skylineWebBanners {
+	width: 95%;
+	padding: 10px 6px;
+}
