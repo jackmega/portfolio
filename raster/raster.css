@@ -14,4 +14,7 @@
 .skylineWebBanners {
 	width: 95%;
 	padding: 10px 6px;
+	border-style: solid;
+	border-color: #333333;
+	border-width: 1px;
 }
