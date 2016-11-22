@@ -1,0 +1,15 @@
+#adobeLogos {
+	width: 25px;height: 25px;
+}
+body {
+	padding-top: 70px;
+}
+a {
+	color: #eeeeee;
+	transition: color 1s;
+	transition-delay: .2s;
+}
+a:hover {
+	color: #55aaff;
+	text-decoration: none;
+}
