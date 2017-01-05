@@ -4,6 +4,9 @@
 .tables {
 	padding-left: 35px;
 }
+.center-block {
+	margin: auto;
+}
 .skylineWebBannerTable {
 	display: flex;
 	justify-content: space-between;
@@ -16,5 +19,19 @@
 	padding: 10px 6px;
 	border-style: solid;
 	border-color: #333333;
+	border-width: 1px;
+}
+.composite-group {
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding-left: 35px;
+}
+.compositePhoto {
+	width: 95%;
+	padding: 10px 6px;
+	border-style: solid;
+	border-color: #333;
 	border-width: 1px;
 }
