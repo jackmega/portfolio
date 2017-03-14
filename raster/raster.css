@@ -35,3 +35,17 @@
 	border-color: #333;
 	border-width: 1px;
 }
+.udmaf-group {
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding-left: 35px;
+}
+.udmafProject {
+	width: 95%;
+	padding: 10px 6px;
+	border-style: solid;
+	border-color: #333;
+	border-width: 1px;
+}
